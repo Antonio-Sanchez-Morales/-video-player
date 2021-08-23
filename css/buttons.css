@@ -9,7 +9,7 @@
 }
 
 .button:active {
-  transform: scale(.9);
+  transform: scale(0.9);
 }
 
 #play {
@@ -24,6 +24,6 @@
   background-image: url("../images/-10.svg");
 }
 
-#forward{
+#forward {
   background-image: url("../images/+10.svg");
 }
